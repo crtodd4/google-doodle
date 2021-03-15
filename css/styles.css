@@ -9,21 +9,15 @@ h1 {
 }
 
 #speakerset {
-  position: relative;
-  left: 220px;
-  top: 2px;
+  transform: translate(221px, 0px);
 }
 
 .audio-interface {
-  position: relative;
-  right: 346px;
-  top: 68px;
+  transform: translate(-346px, 71px);
 }
 
 .plug {
-  position: relative;
-  right: 502px;
-  top: 155px;
+  transform: translate(-502px, 157px);
 }
 
 .ring1 {
@@ -60,7 +54,7 @@ h1 {
 }
 
 .interface2 {
-  transform: translate(-5px, -262px);
+  transform: translate(0px, -262px);
 }
 
 /*animations*/

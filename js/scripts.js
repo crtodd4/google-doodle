@@ -19,3 +19,13 @@ gsap.from(".e", {
   y: -800,
   duration: 2
 });
+
+gsap.from(".audio-interface", {
+  y: 168,
+  duration: 2
+});
+
+gsap.from(".interface2", {
+  y: 168,
+  duration: 2
+});
