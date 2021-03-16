@@ -6,14 +6,15 @@
 */
 h1 {
   font-family: sans-serif;
+  padding-left: 20px;
 }
 
 #speakerset {
-  transform: translate(221px, 0px);
+  transform: translate(221px, -20px);
 }
 
 .audio-interface {
-  transform: translate(-346px, 71px);
+  transform: translate(-346px, 70px);
 }
 
 .plug {
@@ -54,7 +55,7 @@ h1 {
 }
 
 .interface2 {
-  transform: translate(0px, -262px);
+  transform: translate(0px, -283px);
 }
 
 /*animations*/
@@ -75,19 +76,19 @@ h1 {
 
 /* Letters being placed*/
 .G {
-  transform: translate(80px, -332px);
+  transform: translate(80px, -353px);
 }
 
 .g {
-  transform: translate(380px, -290px);
+  transform: translate(380px, -311px);
 }
 
 .l {
-  transform: translate(395px, -332px);
+  transform: translate(395px, -353px);
 }
 
 .e {
-  transform: translate(400px, -332px);
+  transform: translate(400px, -353px);
 }
 
 /* Doodle Stage */
@@ -97,6 +98,7 @@ h1 {
   height: 400px;
   width: 800px;
   outline: 1px black;
+  overflow: hidden;
 }
 
 /* DO NOT EDIT BELOW THIS LINE */

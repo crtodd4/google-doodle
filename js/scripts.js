@@ -29,3 +29,8 @@ gsap.from(".interface2", {
   y: 168,
   duration: 2
 });
+
+gsap.from(".plug", {
+  y: 400,
+  duration: 2
+});
